@@ -32,7 +32,7 @@ main(){
 				  
 				  ;;
 				  clean-build)
-						rm -rf ./build/* ./build/.*
+						rm -rf ./build/
 				  ;;
 
 				  *|**)
